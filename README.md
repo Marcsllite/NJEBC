@@ -1,2 +1,2 @@
 # NJEBC
-website for the New Jerusalem Evangelical Baptist Church
+unofficial website for the New Jerusalem Evangelical Baptist Church
